@@ -1,0 +1,11 @@
+﻿  camera.c
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(12,43): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(67,65): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(69,74): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(71,43): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(78,48): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(78,78): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(80,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(81,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\ogl_begin\camera.c(63,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ogl_begin.vcxproj -> C:\Users\Рома\Desktop\ПетрГУ\Graphics\Projekt\Курсовая\x64\Debug\ogl_begin.exe
